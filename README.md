@@ -23,3 +23,6 @@ git checkout -b [이름]
 
 pull request
 > github 들어가서 merge 하는 것
+
+draft pull request
+> 초기 단계로 아직 준비가 안됨
