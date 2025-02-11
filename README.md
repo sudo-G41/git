@@ -20,3 +20,9 @@ git checkout [이름]
 
 git checkout -b [이름]
 > 해당 브랜치를 생성하면서 이동
+
+pull request
+> github 들어가서 merge 하는 것
+
+draft pull request
+> 초기 단계로 아직 준비가 안됨
